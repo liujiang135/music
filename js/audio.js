@@ -317,7 +317,7 @@ var database = [
     {time: "03:31", lyric: "和他的照片就摆在手边"},
     {time: "03:34", lyric: "傻傻两个人笑得多甜"},
     {time: "03:41", lyric: "傻傻两个人笑得多甜"}]
-  }
+  },
   {
     id: "7", songs: "誓如当初", name: "许鹤缤", src: "music/誓如当初.mp3", alltime: "03:04", photo: "images/mww.jpg", lyrics: [
     {time: "00:02", lyric: "誓如当初"},
@@ -361,9 +361,10 @@ var database = [
     {time: "03:27", lyric: "香烟氲成一摊光圈"},
     {time: "03:31", lyric: "和他的照片就摆在手边"},
     {time: "03:34", lyric: "傻傻两个人笑得多甜"},
-    {time: "03:41", lyric: "傻傻两个人笑得多甜"}]
+    {time: "03:41", lyric: "傻傻两个人笑得多甜"}
+  ]
   },
-  {
+  /*{
     id: "20", songs: "阴天", name: "莫文蔚", src: "music/阴天.mp3", alltime: "04:02", photo: "images/mww.jpg", lyrics: [
     {time: "00:02", lyric: "阴天"},
     {time: "00:04", lyric: "莫文蔚"},
@@ -618,8 +619,8 @@ var database = [
       {time: "03:28", lyric: ""},
       {time: "03:31", lyric: "我 想起你 就不会 崩坏"},
       {time: "03:38", lyric: ""}]
-  }
-  ,
+  }*/
+  /*,
   {
     id: "25", songs: "情书", name: "张学友", src: "music/情书.mp3", alltime: "04.06", photo: "images/zxy.jpg", lyrics: [
     {time: "00:01", lyric: "情书"},
@@ -674,5 +675,5 @@ var database = [
     {time: "03:37", lyric: "留得住"},
     {time: "03:40", lyric: ""}
   ]
-  }
+  }*/
 ]
